@@ -1,0 +1,4 @@
+name: NoDupe
+main: com.ninebninet.nodupe.NoDupe
+version: 1.0
+commands:
